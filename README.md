@@ -1,3 +1,6 @@
+I Forked this more than 5 years ago because I wanted to add some commands to it. Since they I have not bothered with the Commandr-Android app. I am Archiving this repo.
+
+----------------------------------------------------------------------------------------------------------------------------------------
 ![alt tag](http://commandr.rsenapps.com/commandrfeature.jpg)
 Commandr for Google Now (Android)
 ================
